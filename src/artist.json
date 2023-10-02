@@ -1,62 +1,62 @@
 {
-    "name": "Diaries Of A Hero",
-    "albumCover": "/images/albumCovers/DiariesOfAHero.png",
-    "releaseYear": "2014",
+    "name": "closed captions",
+    "albumCover": "/images/albumCovers/closed captions album cove.png",
+    "releaseYear": "2023",
     "tracks": [
         {
             "id": 1,
-            "name": "Intro",
-            "path": "/songs/Intro.mp3"
+            "name": "bluberry bakwood",
+            "path": "/songs/bluberry bakwood.mp3"
         },
         {
             "id": 2,
-            "name": "Solitude",
-            "path": "/songs/Solitude.mp3"
+            "name": "sativa",
+            "path": "/songs/sativa.mp3"
         },
         {
             "id": 3,
-            "name": "Manimal",
-            "path": "/songs/Manimal.mp3"
+            "name": "fangs",
+            "path": "/songs/fangs.mp3"
         },
         {
             "id": 4,
-            "name": "J5",
-            "path": "/songs/J5.mp3"
+            "name": "?????",
+            "path": "/songs/question marks.mp3"
         },
         {
             "id": 5,
-            "name": "Throne",
-            "path": "/songs/Throne.mp3"
+            "name": "sol",
+            "path": "/songs/sol.mp3"
         },
         {
             "id": 6,
-            "name": "Scarwhores",
-            "path": "/songs/Scarwhores.mp3"
+            "name": "canary",
+            "path": "/songs/canary.mp3"
         },
         {
             "id": 7,
-            "name": "Highschool Funeral",
-            "path": "/songs/Highschool Funeral.mp3"
+            "name": "blac chyna",
+            "path": "/songs/blac chyna.mp3"
         },
         {
             "id": 8,
-            "name": "Get Away",
-            "path": "/songs/Get Away.mp3"
+            "name": "sos",
+            "path": "/songs/sos.mp3"
         },
         {
             "id": 9,
-            "name": "Victims of Chaos",
-            "path": "/songs/Victims of Chaos.mp3"
+            "name": "draco draco",
+            "path": "/songs/draco.mp3"
         },
         {
             "id": 10,
-            "name": "Neruda",
-            "path": "/songs/Neruda.mp3"
+            "name": "frank ocean",
+            "path": "/songs/frank ocean.mp3"
         },
         {
             "id": 11,
-            "name": "Brother",
-            "path": "/songs/Brother.mp3"
+            "name": "flat (bonus)",
+            "path": "/songs/flat.mp3"
         }
     ]
 }
